@@ -1,4 +1,4 @@
-# sorting-algorithm-visualizer
+# Sorting Algorithm Visualizer
 
 Sorting algorithm visualizer, that visually sorts a randomly generated list by a selected algorithm.
 Currently implemented algorithms are:
